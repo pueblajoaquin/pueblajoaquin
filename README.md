@@ -11,13 +11,13 @@
 ### 🚀 Featured Projects
 
 
-* [Starfighter Project](https://github.com/ingenieria-de-software-unrc/proyecto-de-ingenier-a-de-software-2025-inteligencia-artesanal)
+* [Starfighter Project](https://github.com/ingenieria-de-software-unrc/proyecto-de-ingenier-a-de-software-2025-inteligencia-artesanal)<br>
 Developed a 2D space shooter to implement robust Software Engineering practices, including Design Patterns, MVC, and rigorous testing suites.
 
-* [Carcascore](https://github.com/JuanBonatto7/carcascore)
+* [Carcascore](https://github.com/JuanBonatto7/carcascore)<br>
 Image analysis tool for the board game Carcassonne. Developed in a team environment to train an AI model capable of recognizing board states and determining match results.
 
-* [Clover Wallet](https://github.com/pueblajoaquin/clover-wallet)
+* [Clover Wallet](https://github.com/pueblajoaquin/clover-wallet)<br>
 Development of a virtual wallet application. Designed with a focus on simplicity and a clean user interface for everyday financial control.
 
 ---
